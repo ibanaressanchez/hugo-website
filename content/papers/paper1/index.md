@@ -2,17 +2,17 @@
 title: "Ray of Hope? China and the Rise of Solar Energy" 
 date: 2024
 lastmod: 2024
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+tags: ["solar pv","industrial policy","place-based policies", "China","renewables"]
+author: ["Ignacio Banares-Sanchez","Robin Burgess", "David Laszlo", "Pol Simpson","John Van Reenen", "Yifan Wang"]
+description: "" 
+summary: "" 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: 
+    alt: 
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: 
+    Text: 
 
 ---
 
@@ -20,43 +20,14 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/hugo-website)
++ [Paper]()
++ [Online appendix]()
++ [Code and data]()
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The rapid decline in global cost of solar panels from the early 2000s coincided with China's growing  dominance in solar photovoltaics (PV) and its adoption of green industrial policies. We evaluate the effectiveness of local, city-level policies to encourage growth and innovation in the Chinese solar industry. Using new data on solar subsidy policies, patenting, production and trade and a synthetic-difference-in-differences approach, we show that production subsidies caused large increases in solar PV output, innovation and productivity. Cities combining production subsidies with R&D support had an even larger impact. We can reject negative spillovers to other cities, finding that business stealing effects are outweighed by knowledge spillovers. Although demand subsidies targeted at solar generation reduced pollution, they had little impact on local solar output and innovation, as additional demand was largely obtained from other Chinese cities. We interpret these results through the lens of a quantified general equilibrium model with heterogeneous manufacturers, intra-national and international trade costs and endogenous choices of R&D, entry/exit and trade. Our results suggest substantial benefits to China from its solar policy, even abstracting from the climate change externality. We draw implications for green industrial policies in other countries, suggesting such interventions can foster growth in clean energy.
 
 ---
-
-##### Figure 6: Some Uses For Olive Oil
-
-![](paper1.png)
-
----
-
-##### Citation
-
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2001. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
-
-```BibTeX
-@article{UV01,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2001},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34),
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
-
----
-
-##### Related material
-
-+ [Slides for long presentation](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
