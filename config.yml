@@ -43,7 +43,7 @@ params:
     profileMode:
           enabled: true
           title: Ignacio Banares-Sanchez
-          subtitle: "I am a PhD Candidate at the London School of Economics."
+          subtitle: "I am an Economics PhD Candidate at the London School of Economics. I work on questions in development and environmental economics. I am particularly intersted in clean energy, clean water, and sustainable cities. Currently, I am researching industrial, regional, and urban policies, around solar PV, solid waste, and sanitation. I use tools for applied microeconomics, urban economics, and economic geography."
           imageUrl: 
           imageWidth: 160
           imageHeight: 160
