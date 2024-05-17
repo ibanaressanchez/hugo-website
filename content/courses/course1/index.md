@@ -3,7 +3,7 @@ title: "PP454 - Development Economics"
 date: 2024
 lastmod: 2024
 tags: []
-author: "Ignacio Banares-Sanchez"
+author: "Dr. Gharad Bryan (Lecturer) & Ignacio Banares-Sanchez (Teaching Fellow)"
 description: "Graduate course on development economics" 
 summary: "" 
 cover:
