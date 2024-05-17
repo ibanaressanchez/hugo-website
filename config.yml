@@ -49,7 +49,7 @@ params:
           imageHeight: 200
           imageTitle: Ignacio Banares-Sanchez
           buttons:
-            - name: Papers
+            - name: Working Papers
               url: papers/
             - name: Teaching
               url: courses/
