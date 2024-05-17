@@ -11,22 +11,12 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 1 
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Teaching
+          url: teaching/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 5
-
 params:
     description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
 consequat."
@@ -80,18 +70,8 @@ consequat."
           url: mailto:moritz.maria.von.igelfeld@gmail.com
         - name: CV
           url: cv.pdf
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: Location
-          url: location/
         - name: Office Hours
           url: officehours/
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
 
     assets:
         disableHLJS: true
