@@ -1,7 +1,7 @@
 ---
 title: "Ray of Hope? China and the Rise of Solar Energy" 
-date: 2024
-lastmod: 2024
+date: 2024-05-17
+lastmod: 2024-05-17
 tags: ["solar pv","industrial policy","place-based policies", "China","renewables"]
 author: ["Ignacio Banares-Sanchez","Robin Burgess", "David Laszlo", "Pol Simpson","John Van Reenen", "Yifan Wang"]
 description: "" 
