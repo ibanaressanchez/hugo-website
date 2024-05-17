@@ -58,7 +58,7 @@ params:
         - name: Email
           url: mailto:i.banares-sanchez@lse.ac.uk
         - name: CV
-          url: cv.pdf
+          url: 
         - name: Office Hours
           url: officehours/
 
