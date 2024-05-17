@@ -1,7 +1,7 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2003-10-15
-lastmod: 2024-05-08
+title: "Ray of Hope? China and the Rise of Solar Energy" 
+date: 2024
+lastmod: 2024
 tags: ["philology","oleic science","history of oil","Mediterranean world"]
 author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2001." 
