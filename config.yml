@@ -79,7 +79,7 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: summer 
+        style: autumn 
     tableOfContents:
         endLevel: 2
         ordered: false
