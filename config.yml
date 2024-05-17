@@ -44,7 +44,7 @@ params:
           enabled: true
           title: Ignacio Banares-Sanchez
           subtitle: "I am an Economics PhD Candidate at the London School of Economics, where I am affiliated with STICERD and the Economics of Environment and Energy (EEE) Programme. I work on questions in development and environmental economics. I am particularly intersted in clean energy, clean water, and sustainable cities. Currently, I am researching industrial, regional, and urban policies, around solar PV, solid waste, and sanitation. I use tools for applied microeconomics, urban economics, and economic geography."
-          imageUrl: 
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Ignacio Banares-Sanchez
