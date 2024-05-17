@@ -18,9 +18,8 @@ menu:
           url: teaching/
           weight: 3
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs.
-consequat."
-    author: Moritz-Maria von Igelfeld
+    description: "I am an Economics PhD Candidate at the London School of Economics. I work on questions in development and environmental economics. I am particularly intersted in clean energy, clean water, and sustainable cities. Currently, I am researching industrial, regional, and urban policies, around solar PV, solid waste, and sanitation. I use tools for applied microeconomics, urban economics, and economic geography."
+    author: Ignacio Banares-Sanchez
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
