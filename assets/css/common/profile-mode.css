@@ -29,7 +29,7 @@
 }
 
 .button {
-    background: #005f5f; /* dark blue-green color */
+    background: var(--tertiary);
     border: 1px solid rgb(207, 207, 207);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
@@ -42,5 +42,5 @@
 }
 
 .button:hover {
-    background: #004c4c; /* slightly darker blue-green for hover effect */
+    background: #008000; /* slightly darker blue-green for hover effect */
 }
