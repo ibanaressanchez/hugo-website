@@ -15,14 +15,14 @@
     --content: rgb(30, 30, 30);
     --hljs-bg: rgb(28, 29, 33);
     --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
+    --border: #2e5f84;
     --darkpurple: #37729e;
     --midpurple: #73a7ce;
     --lightpurple: #a8c8e0;
     --semibold: 500;
     --homesize: 16px;
-    --textsize: 18px;
-    --h1size: 25px;
+    --textsize: 16px;
+    --h1size: 20px;
     --entrysize: 15px;
     --headersize: 16px;
     --footersize: 13px;
