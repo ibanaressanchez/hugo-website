@@ -29,7 +29,7 @@
     --lineheight: 1.45;
     --lineclamp: 8;
     --marginleft: 26px;
-    --font-family: 'Helvetica, sans-serif'; 
+    --font-family: 'Helvetica', sans-serif; 
 }
 
 .dark {
