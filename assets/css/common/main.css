@@ -1,7 +1,7 @@
 
 b,
 strong {
-    color: #37729e;
+    color: var(--darkpurple);
 }
 
 .main {
